@@ -10,9 +10,11 @@
   },
   "dependencies": {
     "@minoru/react-dnd-treeview": "^3.4.4",
+    "@types/diff": "^5.0.5",
     "@types/node": "20.6.5",
     "@types/react": "18.2.22",
     "@types/react-dom": "18.2.7",
+    "diff": "^5.1.0",
     "eslint": "8.50.0",
     "eslint-config-next": "13.5.2",
     "next": "13.5.2",
